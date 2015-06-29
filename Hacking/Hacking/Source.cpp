@@ -22,10 +22,10 @@ int key[] = { 4, 3, 1, 2, 6, 5};
 int keysize = 6;
 string GetKey()
 {
-	string keystr = IntToString( key[0] )+ " ";
-	for (int i = 0; i < keysize; ++i)
+	string keystr = IntToString(key[0]);
+	for (int i = 1; i < keysize; ++i)
 		keystr += " " + IntToString(key[i]);
-
+	//cout << keystr << endl;
 	return keystr;
 }
 
