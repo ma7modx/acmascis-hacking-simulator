@@ -1,2 +1,14 @@
-hello
-i want to check my space ship
+Hello sir, this is Afify from the customer service of TEPlanet speaking with you. Can I know your name?
+How May I help you, Mr. Emad?
+Can you give me the numbers of your shuttle plate?
+Now, I have your information. So, would you please turn the engine off, wait for 10 seconds and turn it on again?
+Can you please make sure that you are connecting the wires correctly to the engine?
+Umm.. How did the shuttle break down sir?
+And, when will your subscription to the offer end?
+Okay, can you please wait for a minute to check the system configurations?
+Mr. Emad, you still there?
+Can you tell me whether the gas lamp is lighting now or not?
+That good, now we will turn off the engine for 10 seconds and turn it on again.
+Now, is it working?
+That's great. Would you need any more services, sir?
+Happy to serve you at anytime sir. Thank you and goodbye!
